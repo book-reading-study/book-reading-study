@@ -1,0 +1,7 @@
+#adapter pattern
+#Mon Jan 29 22:40:35 KST 2024
+testdata=123
+java=designPattern
+depth=32
+width=1024
+height=512
