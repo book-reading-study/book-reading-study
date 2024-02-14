@@ -1,8 +1,9 @@
 package ch04.geonhee.example;
 
-import geonhee.devbookstudy._002_JAVA언어로배우는디자인패턴입문._04_factory_method.example.framework.Factory;
-import geonhee.devbookstudy._002_JAVA언어로배우는디자인패턴입문._04_factory_method.example.framework.Product;
-import geonhee.devbookstudy._002_JAVA언어로배우는디자인패턴입문._04_factory_method.example.idcard.IdCardFactory;
+
+import ch04.geonhee.example.framework.Factory;
+import ch04.geonhee.example.framework.Product;
+import ch04.geonhee.example.idcard.IdCardFactory;
 
 public class Main {
 
