@@ -1,12 +1,9 @@
-package ch04.geonhee.example.idcard;
+package ch04.hjk.practice;
 
-import ch04.geonhee.example.framework.Product;
-
-public class IdCard extends Product {
-
+public class IDCard extends Product {
     private String owner;
 
-    IdCard(String owner) {
+    IDCard(String owner){
         System.out.println(owner + "의 카드를 만듭니다.");
         this.owner = owner;
     }
@@ -17,11 +14,11 @@ public class IdCard extends Product {
     }
 
     @Override
-    public String toString() {
-        return "[IdCard: " + owner + "]";
+    public String toString(){
+        return "[IDCard: " + owner + "]";
     }
 
-    public String getOwner() {
+    public String getOwner(){
         return owner;
     }
 }
