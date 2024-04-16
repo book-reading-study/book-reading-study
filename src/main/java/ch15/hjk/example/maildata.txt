@@ -1,0 +1,2 @@
+hjk997@example.com=hjk
+hjk997@naver.com=hjk2
